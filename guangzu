@@ -4,5 +4,5 @@ DOMAIN-SUFFIX,guangzu.online,DIRECT
 DOMAIN-SUFFIX,monitor.sina.com.cn,DIRECT
 DOMAIN-SUFFIX,sinaedge.com,DIRECT
 DOMAIN-SUFFIX,jvip888.top,REJECT
-DOMAIN-SUFFIX,weibo.com,Telegram
+DOMAIN-SUFFIX,weibo.com,PROXY
 
