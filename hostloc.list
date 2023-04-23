@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,peewee-orm.com,PROXY
 DOMAIN-SUFFIX,openai.com,PROXY
 DOMAIN-SUFFIX,discord.org,PROXY
 DOMAIN-SUFFIX,discord.gg,PROXY
+DOMAIN-SUFFIX,bing.com,PROXY
