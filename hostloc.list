@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,discord.org,PROXY
 DOMAIN-SUFFIX,discord.gg,PROXY
 DOMAIN-SUFFIX,discordapp.com,PROXY
 DOMAIN-SUFFIX,bing.com,PROXY
+DOMAIN-SUFFIX,cloudflare.com,PROXY
