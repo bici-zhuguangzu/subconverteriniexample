@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,staff.sina.com.cn,DIRECT
 DOMAIN-SUFFIX,sinaedge.com,DIRECT
 DOMAIN-SUFFIX,intra.weibo.cn,DIRECT
 DOMAIN-SUFFIX,gitlab.weibo.cn,DIRECT
+DOMAIN-SUFFIX,sys-service.sina.com.cn,DIRECT
+DOMAIN-SUFFIX,slb.sina.com.cn,DIRECT
