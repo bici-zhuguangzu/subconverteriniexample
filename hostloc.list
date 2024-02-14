@@ -14,3 +14,4 @@ DOMAIN-SUFFIX,bing.com,PROXY
 DOMAIN-SUFFIX,cloudflare.com,PROXY
 DOMAIN-SUFFIX,docker.com,PROXY
 DOMAIN-SUFFIX,apkpure.com,PROXY
+DOMAIN-SUFFIX,openstreetmap.org,PROXY
